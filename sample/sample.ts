@@ -1,4 +1,4 @@
-import Logger from "../mod.ts"
+import Logger from "https://raw.githubusercontent.com/OdaDaisuke/deno-logger/master/mod.ts"
 
 const sampleData = {
     a: "null",
