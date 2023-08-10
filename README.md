@@ -1,6 +1,6 @@
 # Deno logger
 
-This is logger for deno.
+denoの学習用に書いた簡単なロガー。
 
 ## Usage
 
